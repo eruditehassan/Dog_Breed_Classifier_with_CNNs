@@ -19,7 +19,7 @@ Two datasets were used during this project
 - Jupyter Notebooks
 - Numpy
 - Glob
-- Open CV
+- Open CV and haarcascades
 - Matplotlib
 - tqdm
 - torch and torchvision
